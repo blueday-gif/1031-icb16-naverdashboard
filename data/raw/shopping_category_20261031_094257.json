@@ -1,0 +1,8 @@
+{
+  "status": 400,
+  "body": {
+    "errMsg": "TypeError: .category[0].param -> should be array",
+    "errId": "2026-10-31T09:42:58+09:00/731480428-449886263",
+    "body": "{\"startDate\":\"2026-01-01\",\"endDate\":\"2026-09-30\",\"timeUnit\":\"month\",\"category\":[{\"name\":\"패션의류\",\"param\":\"50000000\"}]}"
+  }
+}

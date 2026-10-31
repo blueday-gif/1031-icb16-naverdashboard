@@ -1,0 +1,8 @@
+requests
+python-dotenv
+pandas
+matplotlib
+streamlit
+kiwipiepy
+wordcloud
+scikit-learn
